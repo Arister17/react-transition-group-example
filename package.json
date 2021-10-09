@@ -1,0 +1,22 @@
+{
+  "name": "0s0sp",
+  "version": "0.0.0",
+  "description": null,
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "17.0.2",
+    "react-bootstrap": "1.6.4",
+    "react-dom": "17.0.2",
+    "react-transition-group": "4.4.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
